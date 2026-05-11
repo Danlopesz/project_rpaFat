@@ -1,0 +1,7 @@
+# Dependências diretas do projeto
+# Instale com: pip install -r requirements.txt
+
+pdfplumber==0.11.9
+pandas==3.0.2
+openpyxl==3.1.5
+selenium==4.43.0

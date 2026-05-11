@@ -1,0 +1,55 @@
+# ============================
+# Ambiente Virtual
+# ============================
+.venv/
+venv/
+env/
+
+# ============================
+# Python
+# ============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ============================
+# Saídas geradas pela RPA
+# ============================
+Processamento_Faturas/
+
+# ============================
+# Documentação local (não sobe pro Git)
+# ============================
+GUIA_INSTALACAO_LOCAL.txt
+
+# ============================
+# IDE / Editor
+# ============================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============================
+# Sistema Operacional
+# ============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================
+# Variáveis de ambiente
+# ============================
+.env
+.env.local
+
+# ============================
+# Logs
+# ============================
+*.log
