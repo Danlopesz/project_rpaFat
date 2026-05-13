@@ -25,11 +25,7 @@
 - [Tech Stack](#-tech-stack)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Pré-requisitos](#-pré-requisitos)
-- [Instalação](#-instalação)
-- [Configuração](#%EF%B8%8F-configuração)
-- [Como Usar](#-como-usar)
 - [Saídas Geradas](#-saídas-geradas)
-- [Troubleshooting](#-troubleshooting)
 - [Autor](#-autor)
 - [Licença](#-licença)
 
