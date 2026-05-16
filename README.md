@@ -1,4 +1,4 @@
-<img width="853" height="543" alt="image" src="https://github.com/user-attachments/assets/62032f04-6c44-4bdf-ad0a-4dbb515dbc2c" /><div align="center">
+<img width="841" height="655" alt="rpaPrint" src="https://github.com/user-attachments/assets/f94674b4-06eb-4fe6-8afa-a148b74ff413" />
 
 # 🚗 RPA Pós-Faturamento — Processador de Faturas
 
